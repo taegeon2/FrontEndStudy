@@ -115,3 +115,18 @@
 [최적화](https://www.notion.so/255f8fa8ff8780d094ebd8925f86f363?pvs=21)  
 
 [Context](https://www.notion.so/Context-255f8fa8ff8780429853dd10a1dc2a71?pvs=21)  
+
+<br>
+
+<summary><strong>TodoList</strong></summary>
+
+
+[UI 생성](https://www.notion.so/UI-251f8fa8ff8780fbb6bcf2f06242f979?pvs=21)
+
+[리스트 추가/삭제하기](https://www.notion.so/251f8fa8ff878048a9aaf684f19b47ae?pvs=21)
+
+<br>
+
+<summary><strong>페이지 라우팅</strong></summary>
+
+[페이지 라우팅](https://www.notion.so/257f8fa8ff8780adab8ee41b5192ec3e?pvs=21)
