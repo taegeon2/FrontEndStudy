@@ -3,7 +3,7 @@
 
 <summary><strong>HTML</strong></summary>
 
-[ HTML 기초](https://www.notion.so/HTML-230f8fa8ff87800fac8bd0d54872e444?source=copy_link)
+[ HTML 기초](https://www.notion.so/HTML-230f8fa8ff87800fac8bd0d54872e444?pvs=21)
 
 [ HTML 태그](https://www.notion.so/HTML-230f8fa8ff878075a02ef4004324ed0c?pvs=21)
 
@@ -13,13 +13,14 @@
 
 [표만들기](https://www.notion.so/233f8fa8ff87800a9aebfdd03d03d51e?pvs=21)
 
-
 <summary><strong>CSS</strong></summary>
 
-개발자 도구 보는 법
-• Windows/Linux: Ctrl + Shift + I 또는 F12
 
-[CSS 기초](https://www.notion.so/CSS-232f8fa8ff878081a1a7f21dbdb368cd?source=copy_link)
+
+1. 개발자 도구 보는 법
+• **Windows/Linux:** `Ctrl + Shift + I` 또는 `F12`
+
+[ CSS 기초](https://www.notion.so/CSS-232f8fa8ff878081a1a7f21dbdb368cd?pvs=21)
 
 [CSS 속성 다루기1](https://www.notion.so/CSS-1-233f8fa8ff87808387f1ed036576e089?pvs=21)
 
@@ -46,9 +47,11 @@
 [내가 맘대로 공부한 노트](https://www.notion.so/23ef8fa8ff8780c8a55dd767b6a59217?pvs=21)
 
 
+
 <summary><strong>자바스크립트</strong></summary>
 
-[자바스크립트 기초]()
+
+[자바스크립트 기초](https://www.notion.so/23bf8fa8ff8780229be2fbe9db306c8f?pvs=21)
 
 [객체 다루기](https://www.notion.so/23cf8fa8ff8780929581ec662cda0c1c?pvs=21)
 
@@ -62,7 +65,7 @@
 
 ---
 
-### 인프런에서 공부한거 필기
+### 인프런에서 배운거 필기
 
 [배열에 대해](https://www.notion.so/245f8fa8ff8780d18c53fcd0f8a273a5?pvs=21)
 
@@ -77,5 +80,37 @@
 [기타 (함수, 연산자 등)](https://www.notion.so/244f8fa8ff8780c29c93eebca9a4b6d5?pvs=21)
 
 
+
 <summary><strong>Node.js</strong></summary>
 
+[1. 기초](https://www.notion.so/1-245f8fa8ff8780018dd5d9ec756f3eec?pvs=21)
+
+[모듈 시스템](https://www.notion.so/247f8fa8ff8780c98ba6c5d107a467ff?pvs=21)
+
+
+
+<summary><strong>React</strong></summary>
+
+[React 개요](https://www.notion.so/React-247f8fa8ff87808b98e8e64c7025ea7f?pvs=21)
+
+[컴포넌트](https://www.notion.so/248f8fa8ff8780c6b581cf5270b2d7dd?pvs=21)
+
+[.JSX 확장자](https://www.notion.so/JSX-248f8fa8ff878025b434e513c6d73dff?pvs=21)
+
+[Props](https://www.notion.so/Props-24bf8fa8ff87807e90c9dd77b4e627de?pvs=21)
+
+[이벤트 핸들러](https://www.notion.so/24df8fa8ff87805994f8ea6ce58325cf?pvs=21)
+
+[State](https://www.notion.so/State-24df8fa8ff878050a08df3fed81a8437?pvs=21)
+
+[State - 입력 관리](https://www.notion.so/State-24df8fa8ff8780b1bf38e52543ef0c02?pvs=21)
+
+[useRef](https://www.notion.so/useRef-24ef8fa8ff87801382b0cfcc39ec3a1a?pvs=21)
+
+[useEffect](https://www.notion.so/useEffect-24ef8fa8ff8780d89a4bf7e0823e0f25?pvs=21)
+
+[useReducer](https://www.notion.so/useReducer-252f8fa8ff878043a97dd35f79bc8856?pvs=21)
+
+[최적화](https://www.notion.so/255f8fa8ff8780d094ebd8925f86f363?pvs=21)
+
+[Context](https://www.notion.so/Context-255f8fa8ff8780429853dd10a1dc2a71?pvs=21)
